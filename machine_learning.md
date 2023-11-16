@@ -14,5 +14,10 @@ http://bin.t.u-tokyo.ac.jp/kaken/
 確定項のみで表現ができるなどなど
 
 ----
+東北大のマーケティングと多項ロジットのスライド
+https://www2.econ.tohoku.ac.jp/~isgk/lec_material/mr_grad2022/mr2022_11.pdf
+
+
+----
 制限付き最小化問題
 https://qiita.com/imaizume/items/44896c8e1dd0bcbacdd5
