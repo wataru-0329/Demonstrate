@@ -8,7 +8,7 @@ https://qiita.com/kuroitu/items/57425380546f7b9ed91c
 # 多項ロジット関連
 ----
 東大のわかりやすいスライド
-http://bin.t.u-tokyo.ac.jp/startup14/file/2-1.pdf
+http://bin.t.u-tokyo.ac.jp/startup14/file/2-1.pdf  
 http://bin.t.u-tokyo.ac.jp/kaken/
 多項ロジットモデルはガンベル分布の性質から
 確定項のみで表現ができるなどなど
