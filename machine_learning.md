@@ -21,3 +21,7 @@ https://www2.econ.tohoku.ac.jp/~isgk/lec_material/mr_grad2022/mr2022_11.pdf
 ----
 制限付き最小化問題
 https://qiita.com/imaizume/items/44896c8e1dd0bcbacdd5
+
+---
+交互作用項
+https://emotionexplorer.blog.fc2.com/blog-entry-301.html
