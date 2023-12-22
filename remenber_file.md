@@ -8,8 +8,8 @@ https://smart-hint.com/python/datetime-ymd/#%E6%97%A5%E4%BB%98%E5%9E%8B%E3%81%8B
 ----
 Wordやpptでの数式の打ち方
 
-wordでのテフの書き方
-control+ +で数式の挿入
-|alpha = ギリシャ文字のアルファ
-X^2 = x2乗を書ける
-X^2_1＝下つき文字と上付き文字を書くことができる．
+wordでのテフの書き方\
+control+ +で数式の挿入\
+|alpha = ギリシャ文字のアルファ\
+X^2 = x2乗を書ける\
+X^2_1＝下つき文字と上付き文字を書くことができる．\
